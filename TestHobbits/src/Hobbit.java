@@ -6,6 +6,7 @@ public class Hobbit {
 		String[] hobbits = {"Bilbo","Frodo"};
 		for (int i=0; i<hobbits.length; i++){
 			System.out.println(hobbits[i]);
+			// new comment
 		}
 	}
 
